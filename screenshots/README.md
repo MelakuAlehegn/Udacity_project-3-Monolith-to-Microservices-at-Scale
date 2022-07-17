@@ -30,7 +30,7 @@ kubectl describe services
 ```bash
 kubectl describe hpa
 ```
-![feedhpa](hpaBackendFeed.PNG)
+
 ![userhpa](hpaBackendUser.PNG)
 ![hpafrontend](hpaFrontend.PNG)
 ![hpareverseproxy](hpaReverseproxy.PNG)
